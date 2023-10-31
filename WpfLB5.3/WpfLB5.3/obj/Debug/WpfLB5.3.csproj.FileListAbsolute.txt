@@ -1,0 +1,14 @@
+D:\БГПУ\ЯиСП\ЯиСП 3 курс\Программы\ЛБ\WpfLB5.3\WpfLB5.3\bin\Debug\WpfLB5.3.exe
+D:\БГПУ\ЯиСП\ЯиСП 3 курс\Программы\ЛБ\WpfLB5.3\WpfLB5.3\bin\Debug\WpfLB5.3.pdb
+D:\БГПУ\ЯиСП\ЯиСП 3 курс\Программы\ЛБ\WpfLB5.3\WpfLB5.3\obj\Debug\WpfLB5.3.csprojAssemblyReference.cache
+D:\БГПУ\ЯиСП\ЯиСП 3 курс\Программы\ЛБ\WpfLB5.3\WpfLB5.3\obj\Debug\MainWindow.g.cs
+D:\БГПУ\ЯиСП\ЯиСП 3 курс\Программы\ЛБ\WpfLB5.3\WpfLB5.3\obj\Debug\App.g.cs
+D:\БГПУ\ЯиСП\ЯиСП 3 курс\Программы\ЛБ\WpfLB5.3\WpfLB5.3\obj\Debug\WpfLB5.3_MarkupCompile.cache
+D:\БГПУ\ЯиСП\ЯиСП 3 курс\Программы\ЛБ\WpfLB5.3\WpfLB5.3\obj\Debug\WpfLB5.3_MarkupCompile.lref
+D:\БГПУ\ЯиСП\ЯиСП 3 курс\Программы\ЛБ\WpfLB5.3\WpfLB5.3\obj\Debug\MainWindow.baml
+D:\БГПУ\ЯиСП\ЯиСП 3 курс\Программы\ЛБ\WpfLB5.3\WpfLB5.3\obj\Debug\WpfLB5.3.g.resources
+D:\БГПУ\ЯиСП\ЯиСП 3 курс\Программы\ЛБ\WpfLB5.3\WpfLB5.3\obj\Debug\WpfLB5._3.Properties.Resources.resources
+D:\БГПУ\ЯиСП\ЯиСП 3 курс\Программы\ЛБ\WpfLB5.3\WpfLB5.3\obj\Debug\WpfLB5.3.csproj.GenerateResource.cache
+D:\БГПУ\ЯиСП\ЯиСП 3 курс\Программы\ЛБ\WpfLB5.3\WpfLB5.3\obj\Debug\WpfLB5.3.csproj.CoreCompileInputs.cache
+D:\БГПУ\ЯиСП\ЯиСП 3 курс\Программы\ЛБ\WpfLB5.3\WpfLB5.3\obj\Debug\WpfLB5.3.exe
+D:\БГПУ\ЯиСП\ЯиСП 3 курс\Программы\ЛБ\WpfLB5.3\WpfLB5.3\obj\Debug\WpfLB5.3.pdb
